@@ -5,7 +5,7 @@
 ## 快速上手 🚀
 
 1.  **建立檔案副本**：
-    *   請將「客製化選項選擇登記萬用系統試算表」複製到您自己的 Google 雲端硬碟，複製後檔案名稱可以任意修改 。
+    *   請將 [[客製化選項選擇登記萬用系統](https://drive.google.com/drive/folders/1MiXMgUm1YfLw19XUWLXt5bUcpNBP3cHm?usp=drive_link)]的試算表複製到您自己的 Google 雲端硬碟，複製後檔案名稱可以任意修改 。
     *   建議您準備好用於文件浮水印及官印的圖片檔案，並設定 Google 雲端硬碟共用連結為任何人都可以檢視的權限。
 
 2.  **設定 Google 試算表**：
