@@ -54,7 +54,7 @@
 
 ### 步驟 1：複製專案檔案
 
-1.  請從 [[客製化選項選擇登記萬用系統](https://drive.google.com/drive/folders/1MiXMgUm1YfLw19XUWLXt5bUcpNBP3cHm?usp=drive_link)] 複製整個專案資料夾到您的 Google 雲端硬碟。
+1.  請從 [[客製化選項選擇登記萬用系統](https://drive.google.com/drive/folders/1MiXMgUm1YfLw19XUWLXt5bUcpNBP3cHm?usp=drive_link)] 複製整個專案資料夾到您的 Google 雲端硬碟。 (或參訪我的我網站[[GAS]http://gas4u.net)])
     *   資料夾內應包含：
         *   `萬用登記選擇簡易系統_主程式.gsheet` (此試算表內嵌了所有必要的 `.gs` 和 `.html` 程式碼檔案)。
         *   (建議) 您可以放置用於浮水印和官印的範例圖片檔案，方便後續設定。
